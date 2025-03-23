@@ -248,7 +248,7 @@ Switch:  flash_init
 TASK5: HOW TO SPOT A VERY HEALTHY SWITCH?
 super healthy: "all flashing green."
 amber/orange: needs help. - you are protected
-
+!HOW TO LEGALLY STEAL YOUR EXPENSIVE CISCO IN YOUR OFFICE
 create vlans,
 transfer ports to vlans
 delete the vlan
