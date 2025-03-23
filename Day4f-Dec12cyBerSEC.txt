@@ -488,7 +488,7 @@ end
 show ntp associations
 GIVE IP ADDRESS TO LINUX BLDGONE AND BLDGTWO:
 sudo su
-bldg1:
+bldg1: !star
 sudo su
 ifconfig eth0 192.168.103.21 netmask 255.255.255.0 up
 route add default gw 192.168.103.11
